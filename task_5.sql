@@ -1,7 +1,3 @@
--- USE THE DATABASE
-USE alx_book_store;
-
-
 -- SCRIPT TO INSERT A SINGLE ROW INTO THE CUSTOMERS TABLE
 
 INSERT INTO Customer (customer_id, customer_name, email, address)
